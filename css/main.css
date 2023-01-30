@@ -8,10 +8,11 @@ li{
 	color: white;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
 }
-h1{ 
-			color:white;
-			font-size: 85px;
-			font-family: "Gill Sans", "Gill Sans MT", Myriad Pro, "DejaVu Sans Condensed", "Helvetica, Arial", "sans-serif"
+h1{
+    text-shadow: 1px 1px #4D00FF;
+    color: white;
+    font-size: 85px;
+    font-family: "Gill Sans", "Gill Sans MT", Myriad Pro, "DejaVu Sans Condensed", "Helvetica, Arial", "sans-serif"
 		}
 		
 h4{
