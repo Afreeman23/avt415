@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    background-image: -webkit-repeating-linear-gradient(90deg,rgba(51,204,255,1.00) 0%,rgba(255,153,204,1.00) 100%);
+    background-image: -moz-repeating-linear-gradient(90deg,rgba(51,204,255,1.00) 0%,rgba(255,153,204,1.00) 100%);
+    background-image: -o-repeating-linear-gradient(90deg,rgba(51,204,255,1.00) 0%,rgba(255,153,204,1.00) 100%);
+    background-image: repeating-linear-gradient(0deg,rgba(51,204,255,1.00) 0%,rgba(255,153,204,1.00) 100%)
+}
+
+
