@@ -1,19 +1,33 @@
 @charset "utf-8";
 /* CSS Document */
 body{
-			background-color: pink
+			background-image: linear-gradient(pink,blue,pink);
+			
 				
 		}
+li{
+	color: white;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
 h1{ 
-			color:hotpink;
+			color:white;
 			font-size: 85px;
 			font-family: "Gill Sans", "Gill Sans MT", Myriad Pro, "DejaVu Sans Condensed", "Helvetica, Arial", "sans-serif"
 		}
 		
 h4{
-			color:hotpink;
+			color:white;
 			font-family: "Gill Sans", Gill Sans MT, "Myriad Pro", "DejaVu Sans Condensed", "Helvetica, Arial", "sans-serif"
 }
 h2{
-	color: hotpink;
+	color: white;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"	
+}
+dd{ color:white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+}
+
+dt{
+	color: white;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
