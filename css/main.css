@@ -1,3 +1,19 @@
 @charset "utf-8";
 /* CSS Document */
-
+body{
+			background-color: pink
+				
+		}
+h1{ 
+			color:hotpink;
+			font-size: 85px;
+			font-family: "Gill Sans", "Gill Sans MT", Myriad Pro, "DejaVu Sans Condensed", "Helvetica, Arial", "sans-serif"
+		}
+		
+h4{
+			color:hotpink;
+			font-family: "Gill Sans", Gill Sans MT, "Myriad Pro", "DejaVu Sans Condensed", "Helvetica, Arial", "sans-serif"
+}
+h2{
+	color: hotpink;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"	
