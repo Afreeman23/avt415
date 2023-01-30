@@ -1,9 +1,8 @@
 @charset "utf-8";
 /* CSS Document */
 body{
-			background-image: linear-gradient(pink,purple,pink);
-			
-				
+			background-image: linear-gradient(pink,violet,pink);
+					
 		}
 li{
 	color: white;
@@ -30,4 +29,8 @@ dd{ color:white;
 dt{
 	color: white;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+/* unvisited link */
+a:link {
+  color: red;
 }
