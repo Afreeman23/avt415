@@ -15,3 +15,10 @@ h1{
 p{
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
 }
+li{
+	font-family: Gill Sans, "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", "Helvetica, Arial", "sans-serif"
+}
+/* unvisited link */
+a:link {
+  color: orangered;
+}
