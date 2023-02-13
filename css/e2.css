@@ -13,9 +13,8 @@ h1{
 }
 
 p{
-	font-size: 15px;
+	font-size: 20px;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
-	
 }
 h3{
 	font-size: 25px;
@@ -23,13 +22,19 @@ h3{
 }
 h4{
 	font-size: 25px;
+	
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+}
+h4{
+		font-weight: bold
 }
 .summary{
 	font-style:oblique
 }
 .name{
-	font-size: 25px;
+		font-size: 25px;
+
+	font-weight: bold
 	
 }
 a:link{
