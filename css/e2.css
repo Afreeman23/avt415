@@ -1,6 +1,38 @@
 @charset "utf-8";
 /* CSS Document */
 body{
-	background-color: aquamarine
+	background-color: lightpink
 }
 
+h1{
+	font-size: 85px;
+	font-family: "Gill Sans"
+}
+h1{
+	color: floralwhite
+}
+
+}
+p{
+	font-size: 15px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+	
+}
+h3{
+	font-size: 25px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+}
+h4{
+	font-size: 25px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+}
+.summary{
+	font-style:oblique
+}
+.name{
+	font-size: 25px;
+	
+}
+a:link{
+	color: crimson
+}
