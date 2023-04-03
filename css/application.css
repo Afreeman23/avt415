@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: palevioletred
+}
+h1{
+	font-size: 40px;
+	font-family: "Gill Sans"
+}
+h1{
+	color: floralwhite
+}
+p{
+	font-size: 20px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+p{
+	color:floralwhite
+}
